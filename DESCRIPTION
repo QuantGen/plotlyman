@@ -1,0 +1,10 @@
+Package: plotlyman
+Version: 0.1
+License: MIT + file LICENSE
+Title: Plotly Manhattan Plots
+Description: Create Manhattan plots using Plotly.
+Authors@R: person("Alexander", "Grueneberg", email = "cran@agrueneberg.info", role = c("aut", "cre"))
+URL: https://github.com/QuantGen/plotlyman
+BugReports: https://github.com/QuantGen/plotlyman/issues
+Imports:
+    plotly

@@ -1,0 +1,2 @@
+import(plotly)
+export(plotlyman)
